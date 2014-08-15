@@ -1,9 +1,9 @@
 import smtplib
 
-listOfEmail = ['oeddyo@gmail.com', 'jinfu.leng@gmail.com', 'illdian1989@gmail.com']
+listOfEmail = ['firstemail', 'secondemail', 'andsoon']
 import  random
 import config
-fromaddr = 'garbagenotification'
+fromaddr = 'YourEmailAddress'
 
 server = smtplib.SMTP('smtp.gmail.com:587')
 server.starttls()

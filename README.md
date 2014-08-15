@@ -3,7 +3,7 @@ DumpGarbageDuptyRotation
 
 For home use only. 
 
-Install:
+##Install:
 
 In your terminal, do
 

@@ -1,2 +1,2 @@
-username = 'garbagenotification'
-password = 'yjxkk131415'
+username = 'your_gmail_username'
+password = 'your_password'
